@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConnectionString-Web.config Connection String" description="ConnectionString web.config 中供應用程式用來存取資料庫的連接字串。" defaultvalue="Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=139.223.4.55)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)));User Id=bull;Password=bull;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Documents\ and\ Settings\\athenawu\\桌面\\AnnouncesBoard\\AnnouncesBoard\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

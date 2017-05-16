@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\ebb\AnnounceBoard" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="設定檔1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/UCSBFive.dll" publishTime="10/21/2010 21:20:28" />
+    <file relUrl="Image/download.png" publishTime="07/02/2010 12:55:48" />
+    <file relUrl="DLL/7za.exe" publishTime="11/19/2010 00:27:33" />
+    <file relUrl="bin/AnnouncesBoard.pdb" publishTime="04/17/2017 13:31:59" />
+    <file relUrl="APMCer.cab" publishTime="10/26/2010 19:06:08" />
+    <file relUrl="Global.asax" publishTime="04/22/2011 11:54:30" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="10/16/2010 16:15:50" />
+    <file relUrl="APMCer人員.cab" publishTime="10/26/2010 19:06:08" />
+    <file relUrl="BBDetail.aspx" publishTime="05/29/2014 14:22:57" />
+    <file relUrl="Image/calendar.gif" publishTime="10/27/2010 11:35:22" />
+    <file relUrl="SaveData.aspx" publishTime="11/16/2010 20:04:20" />
+    <file relUrl="bin/APMCer.dll" publishTime="05/07/2014 16:44:32" />
+    <file relUrl="Image/btn2.png" publishTime="10/15/2010 18:52:04" />
+    <file relUrl="PortalContentCount.aspx" publishTime="05/08/2015 17:54:56" />
+    <file relUrl="BBVeriSign.aspx" publishTime="12/11/2015 15:35:04" />
+    <file relUrl="UCSBFive.dll" publishTime="10/21/2010 21:20:28" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="09/20/2010 21:16:52" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="05/12/2010 11:10:28" />
+    <file relUrl="PortalContent.aspx" publishTime="04/13/2015 14:48:35" />
+    <file relUrl="bin/CHTHiSECURE5_Parsingva.dll" publishTime="10/21/2010 21:20:28" />
+    <file relUrl="bin/ChtHiSECURE5_GPKICardFunction.dll" publishTime="10/21/2010 21:20:28" />
+    <file relUrl="Default.aspx" publishTime="07/09/2010 13:10:16" />
+    <file relUrl="bin/System.Data.OracleClient.dll" publishTime="03/18/2010 19:31:26" />
+    <file relUrl="DBFileStream.ashx" publishTime="07/04/2011 17:23:02" />
+    <file relUrl="Image/banner2.jpg" publishTime="11/12/2010 10:59:22" />
+    <file relUrl="CHTHiSECURE5_Parsingva.dll" publishTime="10/21/2010 21:20:28" />
+    <file relUrl="bin/APMCer.pdb" publishTime="06/17/2011 10:15:53" />
+    <file relUrl="Image/banner.jpg" publishTime="11/12/2010 10:59:22" />
+    <file relUrl="bin/MarkGridView.dll" publishTime="10/26/2010 17:26:46" />
+    <file relUrl="ChtHiSECURE5_GPKICardFunction.dll" publishTime="10/21/2010 21:20:28" />
+    <file relUrl="MP.Master" publishTime="05/07/2014 17:24:21" />
+    <file relUrl="BBContent.aspx" publishTime="07/17/2014 15:42:45" />
+    <file relUrl="Image/btn1.png" publishTime="10/15/2010 18:52:04" />
+    <file relUrl="Web.config" publishTime="11/27/2015 08:59:55" />
+    <file relUrl="DDContent.aspx" publishTime="06/08/2011 12:33:19" />
+    <file relUrl="bin/Oracle.DataAccess.dll" publishTime="08/31/2012 06:26:22" />
+    <file relUrl="APMCer單位.cab" publishTime="10/26/2010 19:04:30" />
+    <file relUrl="Image/BGDefault.jpg" publishTime="10/15/2010 17:03:26" />
+    <file relUrl="Image/loadingAnimation.gif" publishTime="08/02/2010 19:13:32" />
+    <file relUrl="bin/AnnouncesBoard.xml" publishTime="04/17/2017 13:31:59" />
+    <file relUrl="bin/DDTek.Oracle.dll" publishTime="06/17/2011 10:12:42" />
+    <file relUrl="bin/AnnouncesBoard.dll" publishTime="04/17/2017 13:31:59" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="09/20/2010 21:16:50" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,503 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AnnouncesBoard
+</name>
+</assembly>
+<members>
+<member name="F:AnnouncesBoard.SendFiletoFTP.form1">
+	<summary>
+form1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.SendFiletoFTP.Button1">
+	<summary>
+Button1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.Index.form1">
+	<summary>
+form1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBVeriSign.pnlUnitCheck">
+	<summary>
+pnlUnitCheck 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBVeriSign.lblMessage">
+	<summary>
+lblMessage 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBVeriSign.btnReCheck">
+	<summary>
+btnReCheck 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBVeriSign.btnreturnLogin">
+	<summary>
+btnreturnLogin 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.lblOr_orgname">
+	<summary>
+lblOr_orgname 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.lblCo_postnm">
+	<summary>
+lblCo_postnm 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.lblCo_issudt">
+	<summary>
+lblCo_issudt 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.lblCo_dtype">
+	<summary>
+lblCo_dtype 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.lblCo_word_sno">
+	<summary>
+lblCo_word_sno 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.lblCo_postdt">
+	<summary>
+lblCo_postdt 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.lblCo_subj">
+	<summary>
+lblCo_subj 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.gvDetailList">
+	<summary>
+gvDetailList 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.btnDownLog">
+	<summary>
+btnDownLog 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBDetail.gvDownRecordList">
+	<summary>
+gvDownRecordList 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.MP.head">
+	<summary>
+head 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.MP.form1">
+	<summary>
+form1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.MP.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.MP.pnlLogMode">
+	<summary>
+pnlLogMode 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.MP.div_Login">
+	<summary>
+div_Login 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.MP.Login">
+	<summary>
+Login 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.MP.div_unitname">
+	<summary>
+div_unitname 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.MP.lblUnitName">
+	<summary>
+lblUnitName 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.MP.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.SaveData.form1">
+	<summary>
+form1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.txtOr_orgname">
+	<summary>
+txtOr_orgname 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.txtStart_Co_IssuDT">
+	<summary>
+txtStart_Co_IssuDT 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.txtStart_Co_IssuDT_CalendarExtender">
+	<summary>
+txtStart_Co_IssuDT_CalendarExtender 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.calendar1">
+	<summary>
+calendar1 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.txtEnd_Co_IssuDT">
+	<summary>
+txtEnd_Co_IssuDT 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.txtEnd_Co_IssuDT_CalendarExtender">
+	<summary>
+txtEnd_Co_IssuDT_CalendarExtender 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.calendar2">
+	<summary>
+calendar2 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.txtCo_Subj">
+	<summary>
+txtCo_Subj 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.txtCo_Word">
+	<summary>
+txtCo_Word 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.txtCo_SNO">
+	<summary>
+txtCo_SNO 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.btnSearchIn3Day">
+	<summary>
+btnSearchIn3Day 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.btnSearchIn1Month">
+	<summary>
+btnSearchIn1Month 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.btnSearch">
+	<summary>
+btnSearch 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.btnClear">
+	<summary>
+btnClear 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.ddlOr_orgname">
+	<summary>
+ddlOr_orgname 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.onlineUserLab">
+	<summary>
+onlineUserLab 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.rowCountLab">
+	<summary>
+rowCountLab 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.divDownBtn">
+	<summary>
+divDownBtn 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.btnDownloadAll">
+	<summary>
+btnDownloadAll 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="F:AnnouncesBoard.BBContent.gvList">
+	<summary>
+gvList 控制項。
+</summary>
+	<remarks>
+自動產生的欄位。
+將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+</remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.Search(System.Int32)">
+	<summary>
+ 搜尋日期(天)內的資料
+ </summary>
+	<param name="ContainsDays">Integer</param>
+	<returns>DataTable</returns>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.Search(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ 搜尋一個月內，或歷史查詢
+ </summary>
+	<param name="co_orgname">查詢的CO_ORGNO</param>
+	<param name="co_subj">查詢的CO_SUBJ</param>
+	<param name="co_word">查詢的CO_WORD</param>
+	<param name="co_sno">查詢的CO_SNO</param>
+	<param name="startIssudt">發布起日期</param>
+	<param name="endIssudt">發布迄日期</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.GetOrganData">
+	<summary>
+ 取得發布單位
+ </summary>
+	<returns>DataTable</returns>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.GetOrgno(System.String)">
+	<summary>
+ 取得單位代碼
+ </summary>
+	<param name="UnitName">卡片單位名稱</param>
+	<returns>有資料回傳單位代碼，無資料為空</returns>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.GetOrgname(System.String)">
+	<summary>
+ 取得單位名稱
+ </summary>
+	<param name="UnitCode">單位代碼</param>
+	<returns>有資料回傳單位名稱，無資料為空</returns>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.GetOrg_Unitname(System.String)">
+	<summary>
+ 取得單位名稱
+ </summary>
+	<param name="Unitname">單位代碼</param>
+	<returns>有資料回傳單位名稱，無資料為空</returns>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.GetAT_SEQNO(System.String)">
+	<summary>
+ 取得AT_SEQNO
+ </summary>
+	<param name="Path">AT_PATH 或 CO_PATH</param>
+	<returns>AT_SEQNO 或 空值</returns>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.GetAT_FDESC(System.String)">
+	<summary>
+ 取得AT_FDESC
+ </summary>
+	<param name="Seqno">seqno</param>
+	<returns>AT_FDESC 或 空值</returns>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.WriteSW(System.String,System.String,System.String)">
+	<summary>
+ 下載SW
+ </summary>
+	<param name="FileName">完整路徑檔名 如C:\TEMP\HELLO.SW</param>
+	<param name="UnitName">下載單位名稱 (OU)</param>
+	<param name="UnitCode">下載單位代碼</param>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.WriteDIdata(System.String,System.String,System.String)">
+	<summary>
+ 下載DI
+ </summary>
+	<param name="OutPutFilePath">存檔路徑 如C:\TEMP</param>
+	<param name="AT_PATH">附件AT_PATH</param>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.WriteAttch(System.String,System.String)">
+	<summary>
+ 下載附件
+ </summary>
+	<param name="FilePath">存檔路徑 如C:\TEMP</param>
+	<param name="AT_PATH">附件AT_PATH</param>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.InsertDownloadLog(System.String,System.String,System.String,System.String)">
+	<summary>
+ 下載資訊Log
+ </summary>
+	<param name="CO_SEQNO">文件序號</param>
+	<param name="CO_WORD">發文字</param>
+	<param name="CO_SNO">發文號</param>
+	<param name="UnitCode">下載單位代碼</param>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.Download(System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ 下載
+ </summary>
+	<param name="Or_orgno">發文單位代碼</param>
+	<param name="OutputUnitCode">下載單位代碼</param>
+	<param name="UnitName">下載單位</param>
+	<param name="CO_SNO">下載號</param>
+	<param name="CO_PATH">CO_PATH</param>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.IsDownLoad(System.String,System.String)">
+	<summary>
+ 判斷是否有下載記錄Log
+ </summary>
+	<param name="UnitCode">下載單位</param>
+	<param name="CO_SEQNO">下載公文序號</param>
+	<returns>True / False</returns>
+	<remarks></remarks>
+</member><member name="M:AnnouncesBoard.PublicFunc.GetDownloadLog(System.String)">
+	<summary>
+ 取出下載資料
+ </summary>
+	<param name="CO_SEQNO">下載公文序號</param>
+	<returns>DataTable</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

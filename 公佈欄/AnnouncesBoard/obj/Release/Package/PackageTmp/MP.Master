@@ -1,0 +1,126 @@
+<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="MP.master.vb" Inherits="AnnouncesBoard.MP" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        body
+        {
+            font-size: 12pt;
+            line-height: 1.2em;
+        }
+        td
+        {
+            font-size: 12pt;
+            line-height: 1.2em;
+        }
+        font
+        {
+            font-size: 12pt;
+            line-height: 1.2em;
+        }
+        
+        *
+        {
+            margin: 0px;
+            padding: 0px;
+        }
+        #Main
+        {
+            width: 1024px;
+            margin: 0 auto 0 auto;
+        }
+        #Banner
+        {
+            background-color: #D9E5E5;
+            background-image: url("Image/banner2.jpg");
+            background-position: left center;
+            background-repeat: no-repeat;
+            width: 100%;
+            height: 60px;
+        }
+        .BBV_BG
+        {
+            background: url("image/BGDefault.jpg") no-repeat fixed;
+            width: 100%;
+            height: 800px;
+            vertical-align: top;
+        }
+        #UnitDetail
+        {
+            margin: 0 0 0 auto;
+        }
+        #UnitDetail td
+        {
+            padding: 0 10px 0 10px;
+        }
+    </style>
+    <style type="text/css">
+        .style1
+        {
+            text-align: left;
+            font-size: 11pt;
+            margin: 0 auto 0 auto;
+        }
+        .style2
+        {
+            text-align: center;
+            font-size: 11pt;
+            margin: 0 auto 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server" EnableScriptGlobalization="true"
+        EnablePageMethods="true">
+    </asp:ToolkitScriptManager>
+    <div id="Main">
+        <div id="Banner">
+            <asp:Panel ID="pnlLogMode" runat="server">
+                <table id="UnitDetail">
+                    <tr>
+                        <td colspan="2">
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style2">
+                            <div class="Button_Up" id="div_Login" runat="server" visible="False">
+                                <asp:Button runat="server" Text="單位登入" ID="Login" Enabled="true" OnClientClick="alert('請先插入單位卡，\r\n等讀卡燈號不再閃爍時，再按確認.');">
+                                </asp:Button></div>
+                        </td>
+                        <td class="style2">
+                            <div id="div_unitname" runat="server">
+                                名稱:
+                                <asp:Label ID="lblUnitName" runat="server"></asp:Label>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </asp:Panel>
+        </div>
+        <div>
+            <table class="BBV_BG">
+                <tr>
+                    <td valign="top">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,121 @@
+F:\home work\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.dll
+F:\home work\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.pdb
+F:\home work\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.xml
+F:\home work\AnnouncesBoard\AnnouncesBoard\obj\Release\ResolveAssemblyReference.cache
+F:\home work\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+F:\home work\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+F:\home work\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+D:\專案\AnnouncesBoard\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+D:\專案\AnnouncesBoard\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+D:\專案\AnnouncesBoard\AnnouncesBoard\bin\UCSBFive.dll
+D:\專案\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.dll
+D:\專案\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.pdb
+D:\專案\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.xml
+D:\專案\AnnouncesBoard\AnnouncesBoard\bin\APMCer.dll
+D:\專案\AnnouncesBoard\AnnouncesBoard\bin\APMCer.pdb
+D:\專案\AnnouncesBoard\AnnouncesBoard\obj\Release\ResolveAssemblyReference.cache
+D:\專案\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+D:\專案\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+D:\專案\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\bin\UCSBFive.dll
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.dll
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.pdb
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.xml
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\bin\APMCer.dll
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\bin\APMCer.pdb
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\obj\Release\ResolveAssemblyReference.cache
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+D:\Work\Prj\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+E:\Work\AnnouncesBoard\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+E:\Work\AnnouncesBoard\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+E:\Work\AnnouncesBoard\AnnouncesBoard\bin\UCSBFive.dll
+E:\Work\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.dll
+E:\Work\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.pdb
+E:\Work\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.xml
+E:\Work\AnnouncesBoard\AnnouncesBoard\bin\APMCer.dll
+E:\Work\AnnouncesBoard\AnnouncesBoard\bin\APMCer.pdb
+E:\Work\AnnouncesBoard\AnnouncesBoard\obj\Release\ResolveAssemblyReference.cache
+E:\Work\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+E:\Work\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+E:\Work\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\bin\UCSBFive.dll
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.dll
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.pdb
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.xml
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\bin\APMCer.dll
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\bin\APMCer.pdb
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\obj\Release\ResolveAssemblyReference.cache
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+E:\Work\公佈欄\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\bin\UCSBFive.dll
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.dll
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\bin\APMCer.pdb
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\obj\Release\ResolveAssemblyReference.cache
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.pdb
+E:\Work\國防部電子公佈欄案\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.xml
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\bin\UCSBFive.dll
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.dll
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.pdb
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\bin\AnnouncesBoard.xml
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\bin\APMCer.pdb
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+C:\Documents and Settings\athenawu\桌面\AnnouncesBoard\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+D:\Work\公佈欄\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+D:\Work\公佈欄\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+D:\Work\公佈欄\AnnouncesBoard\bin\UCSBFive.dll
+D:\Work\公佈欄\AnnouncesBoard\bin\AnnouncesBoard.dll
+D:\Work\公佈欄\AnnouncesBoard\bin\AnnouncesBoard.pdb
+D:\Work\公佈欄\AnnouncesBoard\bin\AnnouncesBoard.xml
+D:\Work\公佈欄\AnnouncesBoard\bin\APMCer.pdb
+D:\Work\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.vbprojResolveAssemblyReference.cache
+D:\Work\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+D:\Work\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+D:\Work\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\bin\UCSBFive.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\bin\AnnouncesBoard.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\bin\AnnouncesBoard.pdb
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\bin\AnnouncesBoard.xml
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\bin\APMCer.pdb
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.vbprojResolveAssemblyReference.cache
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\bin\UCSBFive.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\bin\AnnouncesBoard.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\bin\AnnouncesBoard.pdb
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\bin\AnnouncesBoard.xml
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\bin\APMCer.pdb
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.vbprojResolveAssemblyReference.cache
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+C:\Users\tatung\Desktop\電子佈告欄\電子佈告欄\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\bin\UCSBFive.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\bin\AnnouncesBoard.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\bin\AnnouncesBoard.pdb
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\bin\AnnouncesBoard.xml
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\bin\APMCer.pdb
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.vbprojResolveAssemblyReference.cache
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
