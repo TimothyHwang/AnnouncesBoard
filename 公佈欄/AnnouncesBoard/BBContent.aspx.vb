@@ -283,7 +283,7 @@ Public Class BBContent
 
                     Try
                         Console.WriteLine(OR_ORGNO + " " + OutputOR_ORGNO + " " + OutputOR_ORGNAME + " " + CO_SNO + " " + CO_PATH)
-                        'PublicFunc.Download(OR_ORGNO, OutputOR_ORGNO, OutputOR_ORGNAME, CO_SNO, CO_PATH)
+                        PublicFunc.Download(OR_ORGNO, OutputOR_ORGNO, OutputOR_ORGNAME, CO_SNO, CO_PATH)
                         gvList.DataSource = Session("DV")
                         gvList.DataBind()
                         ScriptManager.RegisterStartupScript(Page, Page.GetType(), "download_finish", String.Format("alert('{0} - 下載成功!!');", lblSerial), True)

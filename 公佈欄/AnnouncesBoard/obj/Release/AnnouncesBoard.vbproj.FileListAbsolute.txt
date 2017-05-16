@@ -119,3 +119,14 @@ C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\obj\Releas
 C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
 C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.xml
 C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄_part1\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\bin\ChtHiSECURE5_GPKICardFunction.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\bin\CHTHiSECURE5_Parsingva.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\bin\UCSBFive.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\bin\AnnouncesBoard.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\bin\AnnouncesBoard.pdb
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\bin\APMCer.pdb
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.vbprojResolveAssemblyReference.cache
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.dll
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.pdb
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\bin\AnnouncesBoard.xml
+C:\Users\tatung\Desktop\AnnouncesBoard\公佈欄\AnnouncesBoard\obj\Release\AnnouncesBoard.xml

@@ -8,6 +8,8 @@ Imports SevenZip.Sdk
 Imports SevenZip
 Imports Microsoft.Win32
 Imports Oracle.DataAccess.Client
+Imports System.Net
+Imports System.Net.Sockets
 
 Public Class PublicFunc
     ''' <summary>
@@ -274,7 +276,9 @@ Public Class PublicFunc
         'Next
 
         ''不再直接把檔案放入固定資料夾，由下載使用者自行下載壓縮檔
+
         Dim SqlCmd As String = String.Format("select at_data from attach where at_ftype = 1 and at_path = '{0}' ", AT_PATH)
+
         Dim dt As DataTable = New Basic().ODataAdapter(SqlCmd)
 
         SqlCmd = String.Format("select at_filenm from attach where at_ftype = 2 and at_path = '{0}' ", AT_PATH)
@@ -291,7 +295,7 @@ Public Class PublicFunc
             Dim filenm As String = String.Empty
             If dt1.Rows.Count > 0 Then
                 'If Not IsDBNull(dt1.Rows(0)("at_filenm")) Then
-                filenm = dt1.Rows(0)("at_filenm").ToString().Split("-")(0)
+                'filenm = dt1.Rows(0)("at_filenm").ToString().Split("-")(0)
             End If
             DIRework(TempFile, filenm, OutputUnitCode, filename)
         Next
@@ -378,7 +382,7 @@ Public Class PublicFunc
         Try
 
             ''saveFileName = FILENAME + ".zip" ''.Substring(intStart, FILENAME.Length - intStart)
-            Dim saveFileName As String = String.Format("{0}", ConfigurationManager.AppSettings.Item("FilePath")) + Or_orgno + "-" + CO_PATH + ".zip"
+            Dim saveFileName As String = String.Format("{0}", ConfigurationManager.AppSettings.Item("FilePath")) + Or_orgno + "-" + CO_SNO + ".zip"
             'Dim intStart As Integer = FILENAME.LastIndexOf("\", StringComparison.Ordinal) + 1
             Dim fi As FileInfo = New FileInfo(saveFileName)
 
@@ -408,8 +412,7 @@ Public Class PublicFunc
                         Stream.Write(obytes, 0, CType(File.Length, Integer))
                     End Using
                     Dim content As Byte() = Stream.ToArray()
-                    ''CO_PATH -> CO_SNO
-                    HttpContext.Current.Response.AddHeader("Content-disposition", "attachment; filename=" + Or_orgno + "-" + CO_SNO + ".zip")
+                    HttpContext.Current.Response.AddHeader("Content-disposition", "attachment; filename=" + Or_orgno + "-" + CO_PATH + ".zip")
                     HttpContext.Current.Response.ContentType = "application/octet-stream"
                     HttpContext.Current.Response.BinaryWrite(content)
                     HttpContext.Current.Response.End()
@@ -459,12 +462,6 @@ Public Class PublicFunc
                 '產文頭PDF檔
                 PublicFunc.WriteCO_DATA(ConfigurationManager.AppSettings.Item("FilePath"), CO_PATH, FILENAME, Or_orgno)
 
-                'Dim D As New Detail()
-                'D.LoadPathDetail(CO_PATH)
-                ''PublicFunc.DownloadPackage(CO_PATH, FILENAME, FilePath)
-                'PublicFunc.InsertDownloadLog(D.Co_seqno, D.Co_word, D.Co_sno, OutputUnitCode)
-
-                ''壓縮檔案            
                 SevenZip(String.Format("{0}", ConfigurationManager.AppSettings.Item("FilePath")) + Or_orgno + "-" + CO_SNO + ".zip", String.Format("{0}{1}-{2}\RCV\", ConfigurationManager.AppSettings.Item("FilePath"), Or_orgno, CO_PATH), "")
 
                 ''下載檔案
@@ -482,19 +479,26 @@ Public Class PublicFunc
                 End Try
 
                 Using Stream As New MemoryStream
-
                     Using File As New FileStream(fi.FullName, FileMode.Open, FileAccess.Read)
                         Dim obytes As Byte() = New Byte(File.Length) {}
                         File.Read(obytes, 0, CType(File.Length, Integer))
                         Stream.Write(obytes, 0, CType(File.Length, Integer))
                     End Using
                     Dim content As Byte() = Stream.ToArray()
-                    'HttpContext.Current.Response.AddHeader("Content-disposition", "attachment; filename=" + Or_orgno + "-" + CO_PATH + ".zip")
-                    HttpContext.Current.Response.AddHeader("content-disposition", "attachment;filename=")
+                    HttpContext.Current.Response.AddHeader("Content-disposition", "attachment; filename=" + Or_orgno + "-" + CO_PATH + ".zip")
                     HttpContext.Current.Response.ContentType = "application/octet-stream"
+                    Console.WriteLine(content)
                     HttpContext.Current.Response.BinaryWrite(content)
                     HttpContext.Current.Response.End()
                 End Using
+
+                'Dim D As New Detail()
+                'D.LoadPathDetail(CO_PATH)
+                ''PublicFunc.DownloadPackage(CO_PATH, FILENAME, FilePath)
+                'PublicFunc.InsertDownloadLog(D.Co_seqno, D.Co_word, D.Co_sno, OutputUnitCode)
+
+                ''壓縮檔案            
+
                 'HttpContext.Current.Response.ClearContent()
                 'HttpContext.Current.Response.Charset = "utf-8"
                 'HttpContext.Current.Response.Buffer = True
@@ -510,7 +514,6 @@ Public Class PublicFunc
 
                 ''刪除zip檔
                 'File.Delete(saveFileName)
-
             End If
         Catch ex As Exception
             HttpContext.Current.Response.Write("<script>alert('" & ex.Message & "');</script>")

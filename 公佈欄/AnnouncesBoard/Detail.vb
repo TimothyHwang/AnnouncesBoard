@@ -3,7 +3,7 @@
 
 ' 2011/07/01 移除外包的DB Conn dll (DDTek.Oracle) by NaNa
 Public Class Detail
-    Private Conn As New OracleConnection(ConfigurationManager.ConnectionStrings("ConnectionString").ConnectionString)
+    Private Conn As New System.Data.OracleClient.OracleConnection(ConfigurationManager.ConnectionStrings("ConnectionString").ConnectionString)
     Public Function LoadSeqnoDetail(ByVal Seqno As String)
         Conn.Open()
         Dim dr As System.Data.OracleClient.OracleDataReader
