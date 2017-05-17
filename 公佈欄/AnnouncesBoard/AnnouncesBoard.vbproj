@@ -109,6 +109,7 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="7z\7za.exe" />
     <Content Include="APMCer人員.cab" />
     <Content Include="APMCer單位.cab" />
     <Content Include="bin\AjaxControlToolkit.dll" />

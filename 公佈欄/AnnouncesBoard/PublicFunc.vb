@@ -4,12 +4,10 @@ Imports System.Web
 Imports System
 Imports System.Diagnostics
 Imports System.Xml.XPath
-Imports SevenZip.Sdk
-Imports SevenZip
+'Imports SevenZip.Sdk
+'Imports SevenZip
 Imports Microsoft.Win32
 Imports Oracle.DataAccess.Client
-Imports System.Net
-Imports System.Net.Sockets
 
 Public Class PublicFunc
     ''' <summary>
@@ -531,7 +529,7 @@ Public Class PublicFunc
     Public Shared Sub SevenZip(ByVal ZipFileName, ByVal ZipSourcePath, ByVal ZipPassWord)
         Dim ZipPs As New Diagnostics.Process
         Try
-            Dim strExec As String = HttpContext.Current.Server.MapPath("dll/7za.exe")
+            Dim strExec As String = HttpContext.Current.Server.MapPath("7z/7za.exe")
             Dim strAgr As String
 
             '需要設定密碼
@@ -539,7 +537,7 @@ Public Class PublicFunc
                 strAgr = "a " & ZipFileName & " " & ZipSourcePath & " -p" & ZipPassWord
             Else
                 '不需要密碼
-                strAgr = "a -tzip " & ZipFileName & " " & ZipSourcePath & " -mx=9"
+                strAgr = " a -tzip " & ZipFileName & " " & ZipFileName & " -mx=9"
             End If
 
             ZipPs.StartInfo.FileName = strExec
