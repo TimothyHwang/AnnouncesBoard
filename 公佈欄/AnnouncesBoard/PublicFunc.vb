@@ -460,7 +460,7 @@ Public Class PublicFunc
                 '產文頭PDF檔
                 PublicFunc.WriteCO_DATA(ConfigurationManager.AppSettings.Item("FilePath"), CO_PATH, FILENAME, Or_orgno)
 
-                SevenZip(String.Format("{0}", ConfigurationManager.AppSettings.Item("FilePath")) + Or_orgno + "-" + CO_SNO + ".zip", String.Format("{0}{1}-{2}\RCV\", ConfigurationManager.AppSettings.Item("FilePath"), Or_orgno, CO_PATH), "")
+                SevenZip(String.Format("{0}", ConfigurationManager.AppSettings.Item("FilePath")) + Or_orgno + "-" + CO_SNO + ".zip", String.Format("{0}{1}-{2}\RCV\", ConfigurationManager.AppSettings.Item("FilePath"), Or_orgno, CO_SNO), "")
 
                 ''下載檔案
                 Dim fileextname As String = fi.Extension
@@ -529,15 +529,15 @@ Public Class PublicFunc
     Public Shared Sub SevenZip(ByVal ZipFileName, ByVal ZipSourcePath, ByVal ZipPassWord)
         Dim ZipPs As New Diagnostics.Process
         Try
-            Dim strExec As String = HttpContext.Current.Server.MapPath("7z/7za.exe")
+            Dim strExec As String = HttpContext.Current.Server.MapPath("dll/7za.exe")
             Dim strAgr As String
 
             '需要設定密碼
             If ZipPassWord <> "" Then
-                strAgr = "a " & ZipFileName & " " & ZipSourcePath & " -p" & ZipPassWord
+                strAgr = " a " & ZipFileName & " " & ZipSourcePath & " -p" & ZipPassWord
             Else
                 '不需要密碼
-                strAgr = " a -tzip " & ZipFileName & " " & ZipFileName & " -mx=9"
+                strAgr = " a -t7z " & ZipFileName & " " & ZipSourcePath & " -mx=9"
             End If
 
             ZipPs.StartInfo.FileName = strExec
